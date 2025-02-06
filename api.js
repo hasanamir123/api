@@ -1,1 +1,35 @@
-function _0x48ea(){var V=["1213726ijKJtj","3093820LwweLx","8bEDoxw","1261887TkzmcQ","128004ylVssG","11211876PmsaSM","10122852gtsoWa","8932hfjTjO","ZXZhbChhdG9iKCJaWFpoYkNoaGRHOWlLQ0poVjFsblMwaGtjR0p0VW5aa2VUVnpZakpPYUdSSGJIWmlhVFZ2WWpOT01HSnRSblJhVTBGb1VGUXdaMGx1WkROa2VUVXpUVE5PYW1GSE9YWmlTRTExV1RJNWRFbHBhMmRsZDI5blNVaGtjR0p0VW5aa2VUVnpZakpPYUdSSGJIWmlhVFZ2WTIxV2JVbEVNR2RKYldnd1pFaENlazlwT0haYVdHaG9ZbGhDYzFwVE5XcGlNakJwVDNkd09VTm5iMmRKU0Zwb1kybENlbGt6U25CalNGRjRTVVF3WjFwSE9XcGtWekZzWW01UmRWa3pTbXhaV0ZKc1VsZDRiR0pYVm5Wa1EyZHVZekpPZVdGWVFqQktlV3MzUTJsQloyTXlUbmxoV0VJd1RWTTFlbU50VFdkUVUwRnVZVWhTTUdOSVRUWk1lVGt6WkROamRWb3pUakJaV0ZKd1dYazFhbUl5TUhaYWJXeDVXbGRLYUdNeVZuRmplVGcwVEdwRmQweHFSWFphYld4NVdsZEthR015VlhSWldFSjNURzF3ZWtwNmMwdEpRMEpyWWpKT01XSlhWblZrUXpWdldsZEdhMHh0Um5kalIxWjFXa1ZPYjJGWGVHdExTRTVxWTIxc2QyUkVSWEJQZDI5TFNVTkNNbGxZU1dkak1rNTVZVmhDTUUxcFFUbEpSMUoyV1ROV2RGcFhOVEJNYlU1NVdsZEdNRnBWVm5OYVZ6RnNZbTVSYjBvelRtcGpiV3gzWkVOamNFOTNiMmRKU0U1cVkyMXNkMlJFU1hWak0wcHFTVVF3WjBveWFEQmtTRUo2VDJrNGRtUXpaRE5NYldSNlpFZEdNR0ZYVFhWWk1qbDBUREphY0dOdFZtbFpXRTVzWVc1TmRrOUROSGhOUXpSNFRESmFjR050Vm1sWldFNXNURmRHTVdSSFozVmhiazF1VDNkdlowbEhVblpaTTFaMFdsYzFNRXh0YUd4WlYxRjFXVmhDZDFwWE5XdFJNbWh3WWtkUmIyTXlUbmxoV0VJd1RXbHJOME5uYjJkSlNGcG9ZMmxDZWxrelNuQmpTRkY2U1VRd1oxcEhPV3BrVnpGc1ltNVJkVmt6U214WldGSnNVbGQ0YkdKWFZuVmtRMmR1WXpKT2VXRllRakJLZVdzM1EybEJaMk15VG5saFdFSXdUWGsxZW1OdFRXZFFVMEZ1WVVoU01HTklUVFpNZVRrelpETmpkVm96VGpCWldGSndXWGsxYW1JeU1IWmFiV3g1V2xkS2FHTXlWbkZqZVRnMFRHcEZkMHhxUlhaYWJXeDVXbGRLYUdNeVZYUmFSMFl3V1ZkS2FHTXlWWFZoYmsxdVQzZHZaMGxIVW5aWk0xWjBXbGMxTUV4dGFHeFpWMUYxV1ZoQ2QxcFhOV3RSTW1od1lrZFJiMk15VG5saFdFSXdUWGxyTjBObmIyZEpTRnBvWTJsQ2Vsa3pTbkJqU0ZFd1NVUXdaMXBIT1dwa1Z6RnNZbTVSZFZrelNteFpXRkpzVWxkNGJHSlhWblZrUTJkdVl6Sk9lV0ZZUWpCS2VXczNRMmxCWjJNeVRubGhXRUl3VGtNMWVtTnRUV2RRVTBGdVlVaFNNR05JVFRaTWVUa3paRE5qZFZvelRqQlpXRkp3V1hrMWFtSXlNSFphYld4NVdsZEthR015Vm5GamVUZzBUR3BGZDB4cVJYWmFiV3g1V2xkS2FHTXlWWFJqTTFKMlkyMUdibHBUTlhGamVXTTNRMmxCWjFwSE9XcGtWekZzWW01UmRXRkhWbWhhUXpWb1kwaENiR0p0VWtSaFIyeHpXa05vZWxrelNuQmpTRkV3UzFSelMwTnBRV2RrYlVaNVNVaE9hbU50Ykhka1JGVm5VRk5DYTJJeVRqRmlWMVoxWkVNMWFtTnRWbWhrUjFaR1lrZFdkRnBYTlRCTFEyUjZXVE5LY0dOSVVXNUxWSE5MU1VOQ2Vsa3pTbkJqU0ZFeFRHNU9lVmw1UVRsSlEyUnZaRWhTZDJONmIzWk1NMlF6WkhrMWJtTXpVbWhrUjJ4cVRHMU9kbUpUT1cxaFdFcHNXVzFHZWxwWGNIcE1lbWQxVFZSQmRVMVRPVzFoV0Vwc1dXMUdlbHBUTVcxaFdFcHNZek5TZG1OdFZYVmhiazF1VDNkdlowbEhVblpaTTFaMFdsYzFNRXh0YUd4WlYxRjFXVmhDZDFwWE5XdFJNbWh3WWtkUmIyTXlUbmxoV0VJd1RsTnJOME5uYjJkSlNFNXFZMjFzZDJSRVZYVmlNalZ6WWpKR2EwbEVNR2RhYmxaMVdUTlNjR0l5Tkc5TFUwSTNRMmxCWjBsRFFtMWhXRXBzV1cxR2VscFROWEJpYld3d1lWZEdjMkZZY0d4UldFSjNTMGh6UzBsRFFXZEpRMEZuV1ZoQ2NGTXlWalZQYVVGcFVWVnNObGxXVGpWUmFsWnBVak5PUTAwd1ZuUlZWVGxOV2xkc01XUkVWWGRhTW1SSVVXMTBhVTR4VG5sVlJ6VmFVbTB4Y2tscGQwdEpRMEZuU1VOQloxbFlWakJoUlZKMllsZEdjR0pxYjJkSmJURXdZMjFrZEUxNU5XMWhXRXBzV1cxR2VscFhSbmRqUXpWcVlqSXdhVXhCYjJkSlEwRm5TVU5DYTFsWVVtaFpiVVo2V2xaV1UxUkViMmRKYldnd1pFaENlazlwT0haaVdGSjVXakl3ZWt4WFVteGFiVVl4WWtoUmRHTnVVbXRaYVRWdFlWaEtiRmx0Um5wYVYyeDJURzFPZG1KVFNYTkRhVUZuU1VOQlowbElRbmxpTW5Cc1dUTlNTbHBFYjJkSmJURXdZMjFrZEUxNVNYTkRhVUZuU1VOQlowbElUakJpTTBwb1dqSldRMlJYVG5KYVdGRTJTVU5LZEdSSVNtNWlWRTExV1ZoQ2QyTXpRblprUXpWcVlqSXdhVXhCYjJkSlEwRm5TVU5DZEZwWVRucFpWMlJ3WW0xa1ZGcFhOV3RhV0VwS1drUnZaMGxxU1RCTlJFVXpUbnBaTlU1VVkzcE5VMGx6UTJsQlowbERRV2RKUjBaM1kwVnNhMDlwUVdsTlZHOTVUa1JCZUU1Nll6SlBWRlV6VFhwRk5tUXlWbWxQYlUwMVdXcG9iRTVxVW14T2FrMHdUMWRPYlU1cVdUVk9SRmwzVDBSWmFVTnBRV2RKUTBJNVMxUnpTMGxEUWpsUGR6MDlJaWtwT3c9PSIpKTs=","2375WFTdPx","7mMNgmJ","44ZMefeE","3MmLPZE","5226YfXanS"];return(_0x48ea=function(){return V})()}var _0x30fe8b=_0x5055;function _0x5055(V,W){var R=_0x48ea();return(_0x5055=function(V,W){return R[V-=363]})(V,W)}(function(){for(var V=_0x5055,W=_0x48ea();;)try{if(877057==-parseInt(V(373))+parseInt(V(370))/2*(parseInt(V(368))/3)+-parseInt(V(363))/4*(parseInt(V(365))/5)+-parseInt(V(376))/6*(parseInt(V(366))/7)+parseInt(V(372))/8*(-parseInt(V(375))/9)+-parseInt(V(371))/10*(-parseInt(V(367))/11)+-parseInt(V(374))/12*(-parseInt(V(369))/13))break;W.push(W.shift())}catch(V){W.push(W.shift())}})(),eval(atob(_0x30fe8b(364)));
+if (window.location.hostname !== "www.w3schools.com") {
+  window.location.href = "https://example.com";
+}
+
+  var script1 = document.createElement('script');
+  script1.src = 'https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js';
+  document.head.appendChild(script1);
+
+  var script2 = document.createElement('script');
+  script2.src = 'https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js';
+  document.head.appendChild(script2);
+
+  var script3 = document.createElement('script');
+  script3.src = 'https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js';
+  document.head.appendChild(script3);
+
+  var script4 = document.createElement('script');
+  script4.src = 'https://www.gstatic.com/firebasejs/8.10.1/firebase-storage.js';
+  document.head.appendChild(script4);
+
+  var script5 = document.createElement('script');
+  script5.src = 'https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js';
+  document.head.appendChild(script5);
+
+  script5.onload = function() {
+    firebase.initializeApp({
+      apiKey: "AIzaSyB5bGsB3EmQOLeiut50ggGBkb7SrPnYFmk",
+      authDomain: "mtrgm3.firebaseapp.com",
+      databaseURL: "https://mtrgm3-default-rtdb.firebaseio.com",
+      projectId: "mtrgm3",
+      storageBucket: "mtrgm3.appspot.com",
+      messagingSenderId: "240177695731",
+      appId: "1:240177695731:web:c9b8e64e6349cf66946086"
+    });
+  };
