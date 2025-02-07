@@ -1,6 +1,4 @@
-if (window.location.hostname !== "websim.ai") {
-  window.location.href = "https://example.com";
-}
+
 
   var script1 = document.createElement('script');
   script1.src = 'https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js';
